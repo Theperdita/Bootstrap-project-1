@@ -1,0 +1,23 @@
+body::before{
+    display: block;
+    content: '';
+    height: 60px;
+}
+
+@media(min-width:768px) {
+    .news-input {
+        width: 50%;
+    }
+}
+
+#startbtn{
+    margin-bottom: 28px;
+}
+
+#contactinfoheader{
+    margin-top: 40px;
+}
+
+#contactcondiv{
+    margin-bottom: 40px;
+}
